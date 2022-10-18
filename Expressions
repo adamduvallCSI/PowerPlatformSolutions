@@ -1,4 +1,4 @@
-createArray(''@','#','%','"','!', ') /Remove special characters from a string; (You can include as many or as little characters necessary
+createArray(''@','#','%','"','!', ') /Remove special characters from a string; (You can include as many or as little characters necessary)
 
 replace(variables('original string variable'), item(), ' ') /Replace string variable with removed removed special characters;
 
