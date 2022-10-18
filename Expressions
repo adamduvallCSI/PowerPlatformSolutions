@@ -1,0 +1,9 @@
+createArray(''@','#','%','"','!', ') /Remove special characters from a string; (You can include as many or as little characters necessary
+
+replace(variables('original string variable'), item(), ' ') /Replace string variable with removed removed special characters;
+
+item()?(attribute name) /Get dynamic content for linked entities in fetchxml from dataverse
+
+
+
+
